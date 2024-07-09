@@ -5,7 +5,7 @@ terraform {
       version = "~>3.111.0"
     }
     azuread = {
-      source = "hashicorp/azuread"
+      source  = "hashicorp/azuread"
       version = "2.53.1"
     }
   }
